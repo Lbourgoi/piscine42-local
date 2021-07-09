@@ -1,0 +1,5 @@
+Credentials cache: API:57C9FA28-81BB-47D3-9D51-280A850DD257
+        Principal: lbourgoi@42LAUSANNE.CH
+
+  Issued                Expires               Principal
+Jul  8 05:44:33 2021  Jul  8 15:44:22 2021  krbtgt/42LAUSANNE.CH@42LAUSANNE.CH
