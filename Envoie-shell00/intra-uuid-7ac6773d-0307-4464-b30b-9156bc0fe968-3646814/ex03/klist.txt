@@ -1,0 +1,6 @@
+Credentials cache: API:29DAAB1D-EF48-485B-B5BC-96D7286ED625
+        Principal: lbourgoi@42LAUSANNE.CH
+
+  Issued                Expires               Principal
+Jul  9 06:53:36 2021  Jul  9 16:53:36 2021  krbtgt/42LAUSANNE.CH@42LAUSANNE.CH
+Jul  9 06:53:38 2021  Jul  9 16:53:36 2021  HTTP/student-storage.42lausanne.ch@42LAUSANNE.CH
